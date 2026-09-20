@@ -1,0 +1,35 @@
+{
+  "user": "Shran21",
+  "repositories": 10,
+  "stars": 2,
+  "forks": 0,
+  "source_bytes": 2863767,
+  "repo_bytes": 57546752,
+  "repo_sizes": {
+    "shran21": 19456,
+    "ns8-qbittorrent": 428032,
+    "reBSGO": 44533760,
+    "dllinfo": 7168,
+    "Bresistance": 5120,
+    "Auto-keypress": 3072,
+    "VM-backups-powershell": 4096,
+    "data-generator": 4096,
+    "OracleDBselector": 12495872,
+    "WANIPchangerVB": 46080
+  },
+  "languages": {
+    "Python": 2591537,
+    "HTML": 85293,
+    "Vue": 51756,
+    "CSS": 30759,
+    "Visual Basic .NET": 25966,
+    "Shell": 22291,
+    "Rust": 19896,
+    "JavaScript": 17088,
+    "PowerShell": 9656,
+    "RobotFramework": 7242,
+    "VBScript": 1479,
+    "SCSS": 620,
+    "Dockerfile": 184
+  }
+}

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="152"
+     viewBox="0 0 860 152" role="img" aria-labelledby="t d" fill="none">
+  <title id="t">GitHub at a glance</title>
+  <desc id="d">Public repos: 10; Stars earned: 2; Languages: 13; Experience: 5+ years</desc>
+  <style>
+  svg{--surface:#ffffff;--border:#d1d9e0;--fg:#1f2328;--muted:#59636e;--track:#eff2f5;--accent:#0969da;}
+  @media (prefers-color-scheme: dark){svg{--surface:#0d1117;--border:#3d444d;--fg:#f0f6fc;--muted:#9198a1;--track:#21262d;--accent:#4493f8;}}
+  .card{fill:var(--surface);stroke:var(--border)}
+  text{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;dominant-baseline:auto}
+  .h{font-size:15px;font-weight:600;fill:var(--fg)}
+  .sub{font-size:11.5px;fill:var(--muted)}
+  .key{font-size:12px;fill:var(--fg)}
+  .val{font-size:12px;fill:var(--muted);font-variant-numeric:tabular-nums}
+  .stat{font-size:26px;font-weight:600;fill:var(--fg)}
+  .lbl{font-size:11.5px;fill:var(--muted)}
+  .seg{font-size:10.5px;font-weight:600}
+  </style>
+  <rect class="card" x=".5" y=".5" width="859" height="151" rx="11.5"/>
+  <text class="h" x="24" y="44">GitHub at a glance</text>
+  <text class="sub" x="24" y="64">Public repositories owned by @Shran21 · on GitHub since 2022</text>
+  <text class="stat" x="44.0" y="112">10</text>
+  <text class="lbl" x="44.0" y="130">Public repos</text>
+  <line x1="227.0" y1="84" x2="227.0" y2="130" stroke="var(--border)" stroke-width="1"/>
+  <text class="stat" x="247.0" y="112">2</text>
+  <text class="lbl" x="247.0" y="130">Stars earned</text>
+  <line x1="430.0" y1="84" x2="430.0" y2="130" stroke="var(--border)" stroke-width="1"/>
+  <text class="stat" x="450.0" y="112">13</text>
+  <text class="lbl" x="450.0" y="130">Languages</text>
+  <line x1="633.0" y1="84" x2="633.0" y2="130" stroke="var(--border)" stroke-width="1"/>
+  <text class="stat" x="653.0" y="112">5+ years</text>
+  <text class="lbl" x="653.0" y="130">Experience</text>
+</svg>
