@@ -21,14 +21,14 @@
   <clipPath id="bar"><rect x="24" y="88" width="812" height="22" rx="11.0"/></clipPath>
   <rect x="24" y="88" width="812" height="22" rx="11.0" fill="var(--track)"/>
   <g clip-path="url(#bar)">
-    <rect x="24.00" y="88" width="732.81" height="22" fill="var(--c0)"/>
+    <rect x="24.00" y="88" width="732.83" height="22" fill="var(--c0)"/>
     <text class="seg" x="390.41" y="102.6" text-anchor="middle" fill="var(--i0)">90%</text>
-    <rect x="758.81" y="88" width="22.18" height="22" fill="var(--c1)"/>
-    <rect x="783.00" y="88" width="12.68" height="22" fill="var(--c2)"/>
-    <rect x="797.67" y="88" width="6.72" height="22" fill="var(--c3)"/>
-    <rect x="806.39" y="88" width="5.36" height="22" fill="var(--c4)"/>
-    <rect x="813.75" y="88" width="4.32" height="22" fill="var(--c5)"/>
-    <rect x="820.07" y="88" width="15.93" height="22" fill="var(--c6)"/>
+    <rect x="758.83" y="88" width="22.10" height="22" fill="var(--c1)"/>
+    <rect x="782.93" y="88" width="12.88" height="22" fill="var(--c2)"/>
+    <rect x="797.80" y="88" width="6.69" height="22" fill="var(--c3)"/>
+    <rect x="806.50" y="88" width="5.34" height="22" fill="var(--c4)"/>
+    <rect x="813.83" y="88" width="4.30" height="22" fill="var(--c5)"/>
+    <rect x="820.13" y="88" width="15.87" height="22" fill="var(--c6)"/>
   </g>
   <circle cx="29.0" cy="130.0" r="5" fill="var(--c0)"/>
   <text class="key" x="42.0" y="134">Python</text>

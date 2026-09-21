@@ -31,7 +31,7 @@
 Share of my public code by language, measured in bytes the way GitHub Linguist
 counts them.
 
-<img alt="Stacked bar of my public code by language, with each language's percentage" src="assets/languages.svg?v=9b68da28" width="100%">
+<img alt="Stacked bar of my public code by language, with each language's percentage" src="assets/languages.svg?v=9d5c4984" width="100%">
 
 <details>
 <summary>Every language, with exact shares</summary>
@@ -39,9 +39,9 @@ counts them.
 <!-- LANGTABLE:START -->
 | Language | Share | Bytes |
 | :-- | --: | --: |
-| Python | 90.5% | 2,591,537 |
+| Python | 90.5% | 2,600,696 |
 | HTML | 3.0% | 85,293 |
-| Vue | 1.8% | 51,756 |
+| Vue | 1.8% | 52,652 |
 | CSS | 1.1% | 30,759 |
 | Visual Basic .NET | 0.9% | 25,966 |
 | Shell | 0.8% | 22,291 |
@@ -61,7 +61,7 @@ counts them.
 <!-- PROJECTS:START -->
 |  |  |
 | :-- | :-- |
-| **[reBSGO](https://github.com/Shran21/reBSGO)**<br><sub>reBSGO Python Server</sub><br><sub>`Python` &#183; &#9733; 1</sub> | **[ns8-qbittorrent](https://github.com/Shran21/ns8-qbittorrent)**<br><sub>`Vue` &#183; &#9733; 1</sub> |
+| **[ns8-qbittorrent](https://github.com/Shran21/ns8-qbittorrent)**<br><sub>`Vue` &#183; &#9733; 1</sub> | **[reBSGO](https://github.com/Shran21/reBSGO)**<br><sub>reBSGO Python Server</sub><br><sub>`Python` &#183; &#9733; 1</sub> |
 | **[dllinfo](https://github.com/Shran21/dllinfo)**<br><sub>`Python`</sub> | **[Bresistance](https://github.com/Shran21/Bresistance)**<br><sub>A collection that can be used for resistance testing at the WAN entry point.</sub><br><sub>`Python`</sub> |
 | **[Auto-keypress](https://github.com/Shran21/Auto-keypress)**<br><sub>This script presses the Scroll Lock key every 30 seconds</sub><br><sub>`VBScript`</sub> | **[VM-backups-powershell](https://github.com/Shran21/VM-backups-powershell)**<br><sub>These scripts were created to allow me to separately back up the checkpoints and VHDX files of my virtual machines running on Hyper-V Server Core.</sub><br><sub>`PowerShell`</sub> |
 <!-- PROJECTS:END -->
