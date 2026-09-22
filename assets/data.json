@@ -4,10 +4,10 @@
   "stars": 2,
   "forks": 0,
   "source_bytes": 2873822,
-  "repo_bytes": 58259456,
+  "repo_bytes": 58261504,
   "repo_sizes": {
+    "shran21": 22528,
     "ns8-qbittorrent": 389120,
-    "shran21": 20480,
     "reBSGO": 45284352,
     "dllinfo": 7168,
     "Bresistance": 5120,
