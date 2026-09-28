@@ -24,14 +24,14 @@
   <a href="mailto:shranit.dev@gmail.com"><img alt="Contact mail: shranit.dev@gmail.com" src="assets/contact-mail.svg" height="20"></a>
 </p>
 
-<img alt="Public repositories, stars earned, languages used and total repository size" src="assets/stats.svg?v=9d39d3d8" width="100%">
+<img alt="Public repositories, stars earned, languages used and total repository size" src="assets/stats.svg?v=97952061" width="100%">
 
 ## Language distribution
 
 Share of my public code by language, measured in bytes the way GitHub Linguist
 counts them.
 
-<img alt="Stacked bar of my public code by language, with each language's percentage" src="assets/languages.svg?v=9d5c4984" width="100%">
+<img alt="Stacked bar of my public code by language, with each language's percentage" src="assets/languages.svg?v=8552a64e" width="100%">
 
 <details>
 <summary>Every language, with exact shares</summary>

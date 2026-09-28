@@ -1,10 +1,10 @@
 {
   "user": "Shran21",
-  "repositories": 10,
+  "repositories": 11,
   "stars": 2,
   "forks": 0,
   "source_bytes": 2873822,
-  "repo_bytes": 58261504,
+  "repo_bytes": 58263552,
   "repo_sizes": {
     "shran21": 22528,
     "ns8-qbittorrent": 389120,
@@ -15,7 +15,8 @@
     "VM-backups-powershell": 4096,
     "data-generator": 4096,
     "OracleDBselector": 12495872,
-    "WANIPchangerVB": 46080
+    "WANIPchangerVB": 46080,
+    "Midas": 2048
   },
   "languages": {
     "Python": 2600696,
