@@ -62,6 +62,6 @@ counts them.
 |  |  |
 | :-- | :-- |
 | **[ns8-qbittorrent](https://github.com/Shran21/ns8-qbittorrent)**<br><sub>`Vue` &#183; &#9733; 1</sub> | **[reBSGO](https://github.com/Shran21/reBSGO)**<br><sub>reBSGO Python Server</sub><br><sub>`Python` &#183; &#9733; 1</sub> |
-| **[dllinfo](https://github.com/Shran21/dllinfo)**<br><sub>`Python`</sub> | **[Bresistance](https://github.com/Shran21/Bresistance)**<br><sub>A collection that can be used for resistance testing at the WAN entry point.</sub><br><sub>`Python`</sub> |
-| **[Auto-keypress](https://github.com/Shran21/Auto-keypress)**<br><sub>This script presses the Scroll Lock key every 30 seconds</sub><br><sub>`VBScript`</sub> | **[VM-backups-powershell](https://github.com/Shran21/VM-backups-powershell)**<br><sub>These scripts were created to allow me to separately back up the checkpoints and VHDX files of my virtual machines running on Hyper-V Server Core.</sub><br><sub>`PowerShell`</sub> |
+| **[Midas](https://github.com/Shran21/Midas)**<br><sub>The MIDAS project focuses on software development for continuous monitoring, automated maintenance, and streamlined remote assistance. It aims to enhance IT environment performance and stability with efficient task completion.</sub><br><sub></sub> | **[dllinfo](https://github.com/Shran21/dllinfo)**<br><sub>`Python`</sub> |
+| **[Bresistance](https://github.com/Shran21/Bresistance)**<br><sub>A collection that can be used for resistance testing at the WAN entry point.</sub><br><sub>`Python`</sub> | **[Auto-keypress](https://github.com/Shran21/Auto-keypress)**<br><sub>This script presses the Scroll Lock key every 30 seconds</sub><br><sub>`VBScript`</sub> |
 <!-- PROJECTS:END -->

@@ -6,6 +6,7 @@
   "source_bytes": 2873822,
   "repo_bytes": 58266624,
   "repo_sizes": {
+    "Midas": 2048,
     "shran21": 25600,
     "ns8-qbittorrent": 389120,
     "reBSGO": 45284352,
@@ -15,8 +16,7 @@
     "VM-backups-powershell": 4096,
     "data-generator": 4096,
     "OracleDBselector": 12495872,
-    "WANIPchangerVB": 46080,
-    "Midas": 2048
+    "WANIPchangerVB": 46080
   },
   "languages": {
     "Python": 2600696,
