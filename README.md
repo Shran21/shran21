@@ -31,7 +31,7 @@
 Share of my public code by language, measured in bytes the way GitHub Linguist
 counts them.
 
-<img alt="Stacked bar of my public code by language, with each language's percentage" src="assets/languages.svg?v=8552a64e" width="100%">
+<img alt="Stacked bar of my public code by language, with each language's percentage" src="assets/languages.svg?v=5300c756" width="100%">
 
 <details>
 <summary>Every language, with exact shares</summary>
@@ -39,17 +39,17 @@ counts them.
 <!-- LANGTABLE:START -->
 | Language | Share | Bytes |
 | :-- | --: | --: |
-| Python | 90.5% | 2,600,696 |
-| HTML | 3.0% | 85,293 |
+| Python | 90.4% | 2,692,009 |
+| HTML | 2.9% | 85,293 |
 | Vue | 1.8% | 52,652 |
-| CSS | 1.1% | 30,759 |
+| Shell | 1.1% | 33,626 |
+| CSS | 1.0% | 30,759 |
 | Visual Basic .NET | 0.9% | 25,966 |
-| Shell | 0.8% | 22,291 |
 | Rust | 0.7% | 19,896 |
 | JavaScript | 0.6% | 17,088 |
 | PowerShell | 0.3% | 9,656 |
-| RobotFramework | 0.3% | 7,242 |
-| VBScript | 0.1% | 1,479 |
+| RobotFramework | 0.2% | 7,242 |
+| VBScript | 0.0% | 1,479 |
 | SCSS | 0.0% | 620 |
 | Dockerfile | 0.0% | 184 |
 <!-- LANGTABLE:END -->
@@ -61,7 +61,7 @@ counts them.
 <!-- PROJECTS:START -->
 |  |  |
 | :-- | :-- |
-| **[ns8-qbittorrent](https://github.com/Shran21/ns8-qbittorrent)**<br><sub>`Vue` &#183; &#9733; 1</sub> | **[reBSGO](https://github.com/Shran21/reBSGO)**<br><sub>reBSGO Python Server</sub><br><sub>`Python` &#183; &#9733; 1</sub> |
+| **[reBSGO](https://github.com/Shran21/reBSGO)**<br><sub>reBSGO Python Server</sub><br><sub>`Python` &#183; &#9733; 1</sub> | **[ns8-qbittorrent](https://github.com/Shran21/ns8-qbittorrent)**<br><sub>`Vue` &#183; &#9733; 1</sub> |
 | **[Midas](https://github.com/Shran21/Midas)**<br><sub>The MIDAS project focuses on software development for continuous monitoring, automated maintenance, and streamlined remote assistance. It aims to enhance IT environment performance and stability with efficient task completion.</sub><br><sub></sub> | **[dllinfo](https://github.com/Shran21/dllinfo)**<br><sub>`Python`</sub> |
 | **[Bresistance](https://github.com/Shran21/Bresistance)**<br><sub>A collection that can be used for resistance testing at the WAN entry point.</sub><br><sub>`Python`</sub> | **[Auto-keypress](https://github.com/Shran21/Auto-keypress)**<br><sub>This script presses the Scroll Lock key every 30 seconds</sub><br><sub>`VBScript`</sub> |
 <!-- PROJECTS:END -->
