@@ -3,11 +3,11 @@
   "repositories": 11,
   "stars": 2,
   "forks": 0,
-  "source_bytes": 3000228,
-  "repo_bytes": 58362880,
+  "source_bytes": 3006821,
+  "repo_bytes": 58380288,
   "repo_sizes": {
-    "reBSGO": 45374464,
-    "shran21": 31744,
+    "reBSGO": 45389824,
+    "shran21": 33792,
     "Midas": 2048,
     "ns8-qbittorrent": 389120,
     "dllinfo": 7168,
@@ -19,10 +19,10 @@
     "WANIPchangerVB": 46080
   },
   "languages": {
-    "Python": 2696790,
+    "Python": 2700804,
     "HTML": 85293,
+    "Shell": 55182,
     "Vue": 52652,
-    "Shell": 52603,
     "CSS": 30759,
     "Visual Basic .NET": 25966,
     "Rust": 19896,
