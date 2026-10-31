@@ -3,12 +3,12 @@
   "repositories": 11,
   "stars": 2,
   "forks": 0,
-  "source_bytes": 3024154,
-  "repo_bytes": 96753664,
+  "source_bytes": 3034911,
+  "repo_bytes": 96754688,
   "repo_sizes": {
-    "shran21": 39936,
-    "reBSGO": 83757056,
     "Midas": 2048,
+    "shran21": 40960,
+    "reBSGO": 83757056,
     "ns8-qbittorrent": 389120,
     "dllinfo": 7168,
     "Bresistance": 5120,
@@ -20,16 +20,19 @@
   },
   "languages": {
     "Python": 2711783,
-    "HTML": 98195,
+    "HTML": 98537,
     "Shell": 60278,
     "Vue": 52652,
-    "CSS": 36268,
+    "CSS": 37865,
     "Visual Basic .NET": 25966,
     "JavaScript": 19831,
     "PowerShell": 9656,
     "RobotFramework": 7242,
+    "Rust": 4259,
+    "TypeScript": 4070,
     "VBScript": 1479,
     "SCSS": 620,
+    "Just": 489,
     "Dockerfile": 184
   }
 }

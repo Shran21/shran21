@@ -24,14 +24,14 @@
   <a href="mailto:shranit.dev@gmail.com"><img alt="Contact mail: shranit.dev@gmail.com" src="assets/contact-mail.svg" height="20"></a>
 </p>
 
-<img alt="Public repositories, stars earned, languages used and total repository size" src="assets/stats.svg?v=70ab23f8" width="100%">
+<img alt="Public repositories, stars earned, languages used and total repository size" src="assets/stats.svg?v=a58ee7c7" width="100%">
 
 ## Language distribution
 
 Share of my public code by language, measured in bytes the way GitHub Linguist
 counts them.
 
-<img alt="Stacked bar of my public code by language, with each language's percentage" src="assets/languages.svg?v=9ff175e5" width="100%">
+<img alt="Stacked bar of my public code by language, with each language's percentage" src="assets/languages.svg?v=ebc17a8b" width="100%">
 
 <details>
 <summary>Every language, with exact shares</summary>
@@ -39,17 +39,20 @@ counts them.
 <!-- LANGTABLE:START -->
 | Language | Share | Bytes |
 | :-- | --: | --: |
-| Python | 89.7% | 2,711,783 |
-| HTML | 3.2% | 98,195 |
+| Python | 89.4% | 2,711,783 |
+| HTML | 3.2% | 98,537 |
 | Shell | 2.0% | 60,278 |
 | Vue | 1.7% | 52,652 |
-| CSS | 1.2% | 36,268 |
+| CSS | 1.2% | 37,865 |
 | Visual Basic .NET | 0.9% | 25,966 |
 | JavaScript | 0.7% | 19,831 |
 | PowerShell | 0.3% | 9,656 |
 | RobotFramework | 0.2% | 7,242 |
+| Rust | 0.1% | 4,259 |
+| TypeScript | 0.1% | 4,070 |
 | VBScript | 0.0% | 1,479 |
 | SCSS | 0.0% | 620 |
+| Just | 0.0% | 489 |
 | Dockerfile | 0.0% | 184 |
 <!-- LANGTABLE:END -->
 
@@ -61,6 +64,6 @@ counts them.
 |  |  |
 | :-- | :-- |
 | **[reBSGO](https://github.com/Shran21/reBSGO)**<br><sub>reBSGO Python Server</sub><br><sub>`Python` &#183; &#9733; 1</sub> | **[ns8-qbittorrent](https://github.com/Shran21/ns8-qbittorrent)**<br><sub>`Vue` &#183; &#9733; 1</sub> |
-| **[Midas](https://github.com/Shran21/Midas)**<br><sub>The MIDAS project focuses on software development for continuous monitoring, automated maintenance, and streamlined remote assistance. It aims to enhance IT environment performance and stability with efficient task completion.</sub><br><sub></sub> | **[dllinfo](https://github.com/Shran21/dllinfo)**<br><sub>`Python`</sub> |
+| **[Midas](https://github.com/Shran21/Midas)**<br><sub>The MIDAS project focuses on software development for continuous monitoring, automated maintenance, and streamlined remote assistance. It aims to enhance IT environment performance and stability with efficient task completion.</sub><br><sub>`Rust`</sub> | **[dllinfo](https://github.com/Shran21/dllinfo)**<br><sub>`Python`</sub> |
 | **[Bresistance](https://github.com/Shran21/Bresistance)**<br><sub>A collection that can be used for resistance testing at the WAN entry point.</sub><br><sub>`Python`</sub> | **[Auto-keypress](https://github.com/Shran21/Auto-keypress)**<br><sub>This script presses the Scroll Lock key every 30 seconds</sub><br><sub>`VBScript`</sub> |
 <!-- PROJECTS:END -->

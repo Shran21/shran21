@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="218"
      viewBox="0 0 860 218" role="img" aria-labelledby="t d" fill="none">
   <title id="t">Language distribution</title>
-  <desc id="d">Share of code by language: Python 89.7%, HTML 3.2%, Shell 2.0%, Vue 1.7%, CSS 1.2%, Visual Basic .NET 0.9%, Other 1.3%.</desc>
+  <desc id="d">Share of code by language: Python 89.4%, HTML 3.2%, Shell 2.0%, Vue 1.7%, CSS 1.2%, Visual Basic .NET 0.9%, Other 1.6%.</desc>
   <style>
   svg{--surface:#ffffff;--border:#d1d9e0;--fg:#1f2328;--muted:#59636e;--track:#eff2f5;--accent:#0969da;--c0:#346996;--c1:#a82e0b;--c2:#6cd104;--c3:#0e9c68;--c4:#6c1bad;--c5:#b368e2;--c6:#a8b1bb;--i0:#ffffff;--i1:#ffffff;--i2:#10161d;--i3:#10161d;--i4:#ffffff;--i5:#10161d;--i6:#10161d;}
   @media (prefers-color-scheme: dark){svg{--surface:#0d1117;--border:#3d444d;--fg:#f0f6fc;--muted:#9198a1;--track:#21262d;--accent:#4493f8;--c0:#055c95;--c1:#a1371d;--c2:#4b9010;--c3:#67b78f;--c4:#8840cd;--c5:#be86e4;--c6:#747c87;--i0:#ffffff;--i1:#ffffff;--i2:#10161d;--i3:#10161d;--i4:#ffffff;--i5:#10161d;--i6:#10161d;}}
@@ -21,18 +21,18 @@
   <clipPath id="bar"><rect x="24" y="88" width="812" height="22" rx="11.0"/></clipPath>
   <rect x="24" y="88" width="812" height="22" rx="11.0" fill="var(--track)"/>
   <g clip-path="url(#bar)">
-    <rect x="24.00" y="88" width="726.13" height="22" fill="var(--c0)"/>
-    <text class="seg" x="387.06" y="102.6" text-anchor="middle" fill="var(--i0)">90%</text>
-    <rect x="752.13" y="88" width="24.37" height="22" fill="var(--c1)"/>
-    <rect x="778.49" y="88" width="14.18" height="22" fill="var(--c2)"/>
-    <rect x="794.68" y="88" width="12.14" height="22" fill="var(--c3)"/>
-    <rect x="808.81" y="88" width="7.74" height="22" fill="var(--c4)"/>
-    <rect x="818.55" y="88" width="4.97" height="22" fill="var(--c5)"/>
-    <rect x="825.53" y="88" width="10.47" height="22" fill="var(--c6)"/>
+    <rect x="24.00" y="88" width="723.55" height="22" fill="var(--c0)"/>
+    <text class="seg" x="385.77" y="102.6" text-anchor="middle" fill="var(--i0)">89%</text>
+    <rect x="749.55" y="88" width="24.36" height="22" fill="var(--c1)"/>
+    <rect x="775.91" y="88" width="14.13" height="22" fill="var(--c2)"/>
+    <rect x="792.04" y="88" width="12.09" height="22" fill="var(--c3)"/>
+    <rect x="806.12" y="88" width="8.13" height="22" fill="var(--c4)"/>
+    <rect x="816.26" y="88" width="4.95" height="22" fill="var(--c5)"/>
+    <rect x="823.20" y="88" width="12.80" height="22" fill="var(--c6)"/>
   </g>
   <circle cx="29.0" cy="130.0" r="5" fill="var(--c0)"/>
   <text class="key" x="42.0" y="134">Python</text>
-  <text class="val" x="144.0" y="134" text-anchor="end">89.7%</text>
+  <text class="val" x="144.0" y="134" text-anchor="end">89.4%</text>
   <circle cx="299.7" cy="130.0" r="5" fill="var(--c1)"/>
   <text class="key" x="312.7" y="134">HTML</text>
   <text class="val" x="398.0" y="134" text-anchor="end">3.2%</text>
@@ -49,6 +49,6 @@
   <text class="key" x="583.3" y="160">Visual Basic .NET</text>
   <text class="val" x="735.2" y="160" text-anchor="end">0.9%</text>
   <circle cx="29.0" cy="182.0" r="5" fill="var(--c6)"/>
-  <text class="key" x="42.0" y="186">Other (6)</text>
-  <text class="val" x="144.0" y="186" text-anchor="end">1.3%</text>
+  <text class="key" x="42.0" y="186">Other (9)</text>
+  <text class="val" x="144.0" y="186" text-anchor="end">1.6%</text>
 </svg>
