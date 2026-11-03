@@ -24,14 +24,14 @@
   <a href="mailto:shranit.dev@gmail.com"><img alt="Contact mail: shranit.dev@gmail.com" src="assets/contact-mail.svg" height="20"></a>
 </p>
 
-<img alt="Public repositories, stars earned, languages used and total repository size" src="assets/stats.svg?v=a58ee7c7" width="100%">
+<img alt="Public repositories, stars earned, languages used and total repository size" src="assets/stats.svg?v=dda91b50" width="100%">
 
 ## Language distribution
 
 Share of my public code by language, measured in bytes the way GitHub Linguist
 counts them.
 
-<img alt="Stacked bar of my public code by language, with each language's percentage" src="assets/languages.svg?v=bc8d899d" width="100%">
+<img alt="Stacked bar of my public code by language, with each language's percentage" src="assets/languages.svg?v=a424a658" width="100%">
 
 <details>
 <summary>Every language, with exact shares</summary>
@@ -39,20 +39,21 @@ counts them.
 <!-- LANGTABLE:START -->
 | Language | Share | Bytes |
 | :-- | --: | --: |
-| Python | 89.4% | 2,743,375 |
-| HTML | 3.3% | 101,329 |
-| Shell | 2.0% | 60,278 |
-| Vue | 1.7% | 52,652 |
-| CSS | 1.3% | 38,495 |
+| Python | 83.2% | 2,743,375 |
+| Rust | 4.7% | 154,006 |
+| HTML | 3.1% | 101,329 |
+| CSS | 2.1% | 68,274 |
+| Shell | 1.8% | 60,278 |
+| TypeScript | 1.6% | 52,770 |
+| Vue | 1.6% | 52,652 |
 | Visual Basic .NET | 0.8% | 25,966 |
 | JavaScript | 0.6% | 19,831 |
 | PowerShell | 0.3% | 9,656 |
 | RobotFramework | 0.2% | 7,242 |
-| Rust | 0.1% | 4,259 |
-| TypeScript | 0.1% | 4,070 |
 | VBScript | 0.0% | 1,479 |
+| Just | 0.0% | 795 |
 | SCSS | 0.0% | 620 |
-| Just | 0.0% | 489 |
+| PLpgSQL | 0.0% | 338 |
 | Dockerfile | 0.0% | 184 |
 <!-- LANGTABLE:END -->
 
