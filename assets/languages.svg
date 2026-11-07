@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="218"
      viewBox="0 0 860 218" role="img" aria-labelledby="t d" fill="none">
   <title id="t">Language distribution</title>
-  <desc id="d">Share of code by language: Python 76.1%, Rust 10.0%, TypeScript 3.5%, HTML 2.8%, CSS 2.1%, Shell 1.7%, Other 3.8%.</desc>
+  <desc id="d">Share of code by language: Python 70.6%, Rust 15.4%, TypeScript 4.0%, HTML 3.0%, CSS 2.0%, Shell 1.5%, Other 3.5%.</desc>
   <style>
   svg{--surface:#ffffff;--border:#d1d9e0;--fg:#1f2328;--muted:#59636e;--track:#eff2f5;--accent:#0969da;--c0:#035388;--c1:#daa789;--c2:#2c92fc;--c3:#ab2900;--c4:#8b43d1;--c5:#56a60d;--c6:#767e88;--i0:#ffffff;--i1:#10161d;--i2:#10161d;--i3:#ffffff;--i4:#ffffff;--i5:#10161d;--i6:#10161d;}
   @media (prefers-color-scheme: dark){svg{--surface:#0d1117;--border:#3d444d;--fg:#f0f6fc;--muted:#9198a1;--track:#21262d;--accent:#4493f8;--c0:#055c95;--c1:#ce9676;--c2:#2c92fc;--c3:#a82e0c;--c4:#8d45d2;--c5:#4d9508;--c6:#747c87;--i0:#ffffff;--i1:#10161d;--i2:#10161d;--i3:#ffffff;--i4:#ffffff;--i5:#10161d;--i6:#10161d;}}
@@ -17,39 +17,39 @@
   </style>
   <rect class="card" x=".5" y=".5" width="859" height="217" rx="11.5"/>
   <text class="h" x="24" y="44">Language distribution</text>
-  <text class="sub" x="24" y="64">7 slots across 11 public repositories · 3.4 MB of source</text>
+  <text class="sub" x="24" y="64">7 slots across 11 public repositories · 3.7 MB of source</text>
   <clipPath id="bar"><rect x="24" y="88" width="812" height="22" rx="11.0"/></clipPath>
   <rect x="24" y="88" width="812" height="22" rx="11.0" fill="var(--track)"/>
   <g clip-path="url(#bar)">
-    <rect x="24.00" y="88" width="615.91" height="22" fill="var(--c0)"/>
-    <text class="seg" x="331.95" y="102.6" text-anchor="middle" fill="var(--i0)">76%</text>
-    <rect x="641.91" y="88" width="79.56" height="22" fill="var(--c1)"/>
-    <text class="seg" x="681.69" y="102.6" text-anchor="middle" fill="var(--i1)">10%</text>
-    <rect x="723.47" y="88" width="26.39" height="22" fill="var(--c2)"/>
-    <rect x="751.85" y="88" width="20.88" height="22" fill="var(--c3)"/>
-    <rect x="774.73" y="88" width="14.82" height="22" fill="var(--c4)"/>
-    <rect x="791.55" y="88" width="11.58" height="22" fill="var(--c5)"/>
-    <rect x="805.13" y="88" width="30.87" height="22" fill="var(--c6)"/>
+    <rect x="24.00" y="88" width="571.52" height="22" fill="var(--c0)"/>
+    <text class="seg" x="309.76" y="102.6" text-anchor="middle" fill="var(--i0)">71%</text>
+    <rect x="597.52" y="88" width="122.98" height="22" fill="var(--c1)"/>
+    <text class="seg" x="659.01" y="102.6" text-anchor="middle" fill="var(--i1)">15%</text>
+    <rect x="722.49" y="88" width="30.08" height="22" fill="var(--c2)"/>
+    <rect x="754.57" y="88" width="22.30" height="22" fill="var(--c3)"/>
+    <rect x="778.87" y="88" width="13.92" height="22" fill="var(--c4)"/>
+    <rect x="794.79" y="88" width="10.59" height="22" fill="var(--c5)"/>
+    <rect x="807.38" y="88" width="28.62" height="22" fill="var(--c6)"/>
   </g>
   <circle cx="29.0" cy="130.0" r="5" fill="var(--c0)"/>
   <text class="key" x="42.0" y="134">Python</text>
-  <text class="val" x="151.5" y="134" text-anchor="end">76.1%</text>
+  <text class="val" x="151.5" y="134" text-anchor="end">70.6%</text>
   <circle cx="299.7" cy="130.0" r="5" fill="var(--c1)"/>
   <text class="key" x="312.7" y="134">Rust</text>
-  <text class="val" x="389.1" y="134" text-anchor="end">10.0%</text>
+  <text class="val" x="389.1" y="134" text-anchor="end">15.4%</text>
   <circle cx="570.3" cy="130.0" r="5" fill="var(--c2)"/>
   <text class="key" x="583.3" y="134">TypeScript</text>
-  <text class="val" x="697.5" y="134" text-anchor="end">3.5%</text>
+  <text class="val" x="697.5" y="134" text-anchor="end">4.0%</text>
   <circle cx="29.0" cy="156.0" r="5" fill="var(--c3)"/>
   <text class="key" x="42.0" y="160">HTML</text>
-  <text class="val" x="151.5" y="160" text-anchor="end">2.8%</text>
+  <text class="val" x="151.5" y="160" text-anchor="end">3.0%</text>
   <circle cx="299.7" cy="156.0" r="5" fill="var(--c4)"/>
   <text class="key" x="312.7" y="160">CSS</text>
-  <text class="val" x="389.1" y="160" text-anchor="end">2.1%</text>
+  <text class="val" x="389.1" y="160" text-anchor="end">2.0%</text>
   <circle cx="570.3" cy="156.0" r="5" fill="var(--c5)"/>
   <text class="key" x="583.3" y="160">Shell</text>
-  <text class="val" x="697.5" y="160" text-anchor="end">1.7%</text>
+  <text class="val" x="697.5" y="160" text-anchor="end">1.5%</text>
   <circle cx="29.0" cy="182.0" r="5" fill="var(--c6)"/>
   <text class="key" x="42.0" y="186">Other (10)</text>
-  <text class="val" x="151.5" y="186" text-anchor="end">3.8%</text>
+  <text class="val" x="151.5" y="186" text-anchor="end">3.5%</text>
 </svg>
