@@ -31,7 +31,7 @@
 Share of my public code by language, measured in bytes the way GitHub Linguist
 counts them.
 
-<img alt="Stacked bar of my public code by language, with each language's percentage" src="assets/languages.svg?v=939e8c9b" width="100%">
+<img alt="Stacked bar of my public code by language, with each language's percentage" src="assets/languages.svg?v=04c03e94" width="100%">
 
 <details>
 <summary>Every language, with exact shares</summary>
@@ -39,15 +39,15 @@ counts them.
 <!-- LANGTABLE:START -->
 | Language | Share | Bytes |
 | :-- | --: | --: |
-| Python | 70.6% | 2,746,787 |
-| Rust | 15.4% | 598,567 |
-| TypeScript | 4.0% | 153,638 |
-| HTML | 3.0% | 116,382 |
-| CSS | 2.0% | 76,248 |
-| Shell | 1.5% | 60,278 |
-| Vue | 1.4% | 52,652 |
-| JavaScript | 0.7% | 26,051 |
-| Visual Basic .NET | 0.7% | 25,966 |
+| Python | 67.0% | 2,746,787 |
+| Rust | 19.8% | 811,201 |
+| TypeScript | 3.7% | 153,638 |
+| HTML | 2.8% | 116,382 |
+| CSS | 1.9% | 76,248 |
+| Shell | 1.5% | 61,012 |
+| Vue | 1.3% | 52,652 |
+| JavaScript | 0.6% | 26,051 |
+| Visual Basic .NET | 0.6% | 25,966 |
 | PLpgSQL | 0.3% | 12,345 |
 | PowerShell | 0.2% | 9,656 |
 | RobotFramework | 0.2% | 7,242 |
