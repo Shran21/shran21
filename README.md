@@ -24,7 +24,7 @@
   <a href="mailto:shranit.dev@gmail.com"><img alt="Contact mail: shranit.dev@gmail.com" src="assets/contact-mail.svg" height="20"></a>
 </p>
 
-<img alt="Public repositories, stars earned, languages used and total repository size" src="assets/stats.svg?v=7953bf72" width="100%">
+<img alt="Public repositories, stars earned, languages used and total repository size" src="assets/stats.svg?v=5213ef03" width="100%">
 
 ## Language distribution
 
@@ -64,7 +64,7 @@ counts them.
 <!-- PROJECTS:START -->
 |  |  |
 | :-- | :-- |
-| **[reBSGO](https://github.com/Shran21/reBSGO)**<br><sub>BSGO Python Server</sub><br><sub>`Python` &#183; &#9733; 1 &#183; 1 fork</sub> | **[ns8-qbittorrent](https://github.com/Shran21/ns8-qbittorrent)**<br><sub>`Vue` &#183; &#9733; 1</sub> |
+| **[reBSGO](https://github.com/Shran21/reBSGO)**<br><sub>BSGO Python Server</sub><br><sub>`Python` &#183; &#9733; 1 &#183; 2 forks</sub> | **[ns8-qbittorrent](https://github.com/Shran21/ns8-qbittorrent)**<br><sub>`Vue` &#183; &#9733; 1</sub> |
 | **[Midas](https://github.com/Shran21/Midas)**<br><sub>The MIDAS project focuses on software development for continuous monitoring, automated maintenance, and streamlined remote assistance. It aims to enhance IT environment performance and stability with efficient task completion.</sub><br><sub>`Rust`</sub> | **[dllinfo](https://github.com/Shran21/dllinfo)**<br><sub>`Python`</sub> |
 | **[Bresistance](https://github.com/Shran21/Bresistance)**<br><sub>A collection that can be used for resistance testing at the WAN entry point.</sub><br><sub>`Python`</sub> | **[Auto-keypress](https://github.com/Shran21/Auto-keypress)**<br><sub>This script presses the Scroll Lock key every 30 seconds</sub><br><sub>`VBScript`</sub> |
 <!-- PROJECTS:END -->
